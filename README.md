@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone git@github.com:krupalshah94/next-js-sample.git
+    git clone git@github.com:Manthan1Citrusbug/next-js-sample.git
     ```
 
 2. Navigate to the project directory:
